@@ -12,7 +12,11 @@ Flick lives in the menu bar, speaks English and French, and is free and open sou
 ## Download
 
 Get **Flick.dmg** from the [latest release](../../releases/latest), open it and drag Flick onto the Applications
-folder. On first launch a welcome window walks you through the two permissions Flick needs (and offers to move it
+folder.
+
+<p align="center"><img src="docs/install.png" alt="The Flick disk image window" width="520"></p>
+
+On first launch a welcome window walks you through the two permissions Flick needs (and offers to move it
 into Applications if you opened it from somewhere else).
 
 Flick is not notarized: the first time, macOS may refuse to open it. Go to **System Settings › Privacy & Security**
